@@ -1,5 +1,5 @@
 FROM python:3.6
-LABEL maintainer="gontrum@me.com"
+LABEL maintainer="maximilian.junker@qualicen.de"
 LABEL version="0.2"
 LABEL description="Base image, containing no language models."
 
